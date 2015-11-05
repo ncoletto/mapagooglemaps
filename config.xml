@@ -6,10 +6,10 @@
         id        = "com.coletto.acelerometro"
         version   = "1.0.0">
 
-    <name>mapa googlemaps</name>
+    <name>mapagooglemaps</name>
 
     <description>
-        mapa googlemaps
+        mapa
     </description>
 
     <author href="http://www.nicolascoletto.com" email="ncoletto@gmail.com">
