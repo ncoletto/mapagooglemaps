@@ -6,7 +6,7 @@
         id        = "com.coletto.acelerometro"
         version   = "1.0.0">
 
-    <name>app de prueba</name>
+    <name>mapa googlemaps</name>
 
     <description>
         mapa googlemaps
